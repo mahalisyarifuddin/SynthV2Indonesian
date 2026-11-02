@@ -11,7 +11,7 @@ Earlier attempts at Indonesian singing required splitting notes and mixing note 
 This is community-made support, not a new official Indonesian language mode or voice database. The dictionary lives under Spanish, but its pronunciations use X-SAMPA.
 
 The repository includes:
-- **`SynthV2Indonesian.json`**: An Indonesian pronunciation dictionary with 3,821 entries.
+- **`SynthV2Indonesian.json`**: An Indonesian pronunciation dictionary with 6,473 entries.
 - **`id-id.txt`**: A Bahasa Indonesia UI translation.
 
 This will be a living, breathing repository, following Synthesizer V updates with dictionary corrections, translation changes, and compatibility fixes.
