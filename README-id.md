@@ -11,7 +11,7 @@ Sebelumnya, membuat vokal bahasa Indonesia memerlukan pemecahan not dan pencampu
 Dukungan ini dibuat oleh komunitas, bukan mode bahasa Indonesia atau basis data suara resmi yang baru. Kamus ditempatkan di folder bahasa Spanyol, tetapi pelafalannya memakai X-SAMPA.
 
 Repositori ini berisi:
-- **`SynthV2Indonesian.json`**: Kamus pelafalan bahasa Indonesia dengan 3.821 entri.
+- **`SynthV2Indonesian.json`**: Kamus pelafalan bahasa Indonesia dengan 6.473 entri.
 - **`id-id.txt`**: Terjemahan antarmuka bahasa Indonesia.
 
 Repositori ini akan terus hidup dan berkembang mengikuti pembaruan Synthesizer V, dengan perbaikan kamus, perubahan terjemahan, dan penyesuaian kompatibilitas.
