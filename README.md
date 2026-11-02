@@ -121,6 +121,7 @@ For a correction or new word, follow the dictionary's existing format:
 {
   "w": "nyanyi",
   "p": "J a J i"
+  "phoneset": "xsampa"
 }
 ```
 
