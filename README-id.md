@@ -121,6 +121,7 @@ Untuk memperbaiki atau menambahkan kata, ikuti format kamus yang sudah ada:
 {
   "w": "nyanyi",
   "p": "J a J i"
+  "phoneset": "xsampa"
 }
 ```
 
