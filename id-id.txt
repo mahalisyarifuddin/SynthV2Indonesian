@@ -169,8 +169,8 @@ language: Bahasa Indonesia
   "Synchronize Tempo with Host" = "Sinkronkan Tempo dengan Hos"
     "No tempo information available." = "Informasi tempo tidak tersedia."
 
-"Transport" = "Kontrol Pemutaran"
-  "Playback" = "Pemutaran"
+"Transport" = "Pemutaran"
+  "Playback" = "Putar & Rekam"
   "Play" = "Putar"
   "Record" = "Rekam"
   "Pause" = "Jeda"
