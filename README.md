@@ -120,7 +120,7 @@ For a correction or new word, follow the dictionary's existing format:
 ```json
 {
   "w": "nyanyi",
-  "p": "J a J i"
+  "p": "J a J i",
   "phoneset": "xsampa"
 }
 ```
